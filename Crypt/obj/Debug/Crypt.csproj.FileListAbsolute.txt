@@ -1,0 +1,87 @@
+C:\Users\Thibault\Desktop\cryptasym\Crypt\Crypt\obj\Debug\Crypt.csprojResolveAssemblyReference.cache
+C:\Users\Thibault\Desktop\cryptasym\Crypt\Crypt\obj\Debug\Crypt.Form1.resources
+C:\Users\Thibault\Desktop\cryptasym\Crypt\Crypt\obj\Debug\Crypt.Form2.resources
+C:\Users\Thibault\Desktop\cryptasym\Crypt\Crypt\obj\Debug\Crypt.Form3.resources
+C:\Users\Thibault\Desktop\cryptasym\Crypt\Crypt\obj\Debug\Crypt.Properties.Resources.resources
+C:\Users\Thibault\Desktop\cryptasym\Crypt\Crypt\obj\Debug\Crypt.csproj.GenerateResource.Cache
+C:\Users\Thibault\Desktop\cryptasym\Crypt\Crypt\bin\Debug\BitCrypter.exe
+C:\Users\Thibault\Desktop\cryptasym\Crypt\Crypt\bin\Debug\BitCrypter.pdb
+C:\Users\Thibault\Desktop\cryptasym\Crypt\Crypt\obj\Debug\BitCrypter.exe
+C:\Users\Thibault\Desktop\cryptasym\Crypt\Crypt\obj\Debug\BitCrypter.pdb
+C:\Users\Thibault\Desktop\cryptasym\Crypt\Crypt\obj\Debug\Crypt.about.resources
+G:\Sauvegarde 28 04 2017\Desktop\DL\cryptasym\Crypt\Crypt\bin\Debug\BitCrypter_AFS.exe
+G:\Sauvegarde 28 04 2017\Desktop\DL\cryptasym\Crypt\Crypt\bin\Debug\BitCrypter_AFS.pdb
+G:\Sauvegarde 28 04 2017\Desktop\DL\cryptasym\Crypt\Crypt\obj\Debug\Crypt.csprojResolveAssemblyReference.cache
+G:\Sauvegarde 28 04 2017\Desktop\DL\cryptasym\Crypt\Crypt\obj\Debug\Crypt.about.resources
+G:\Sauvegarde 28 04 2017\Desktop\DL\cryptasym\Crypt\Crypt\obj\Debug\Crypt.Form1.resources
+G:\Sauvegarde 28 04 2017\Desktop\DL\cryptasym\Crypt\Crypt\obj\Debug\Crypt.Form2.resources
+G:\Sauvegarde 28 04 2017\Desktop\DL\cryptasym\Crypt\Crypt\obj\Debug\Crypt.Form3.resources
+G:\Sauvegarde 28 04 2017\Desktop\DL\cryptasym\Crypt\Crypt\obj\Debug\Crypt.Properties.Resources.resources
+G:\Sauvegarde 28 04 2017\Desktop\DL\cryptasym\Crypt\Crypt\obj\Debug\Crypt.csproj.GenerateResource.Cache
+G:\Sauvegarde 28 04 2017\Desktop\DL\cryptasym\Crypt\Crypt\obj\Debug\BitCrypter_AFS.exe
+G:\Sauvegarde 28 04 2017\Desktop\DL\cryptasym\Crypt\Crypt\obj\Debug\BitCrypter_AFS.pdb
+C:\BACKUP HDD\Mes autres fichiers\VB.NET\Software\cryptasym\Crypt\Crypt\bin\Debug\BitCrypter.exe
+C:\BACKUP HDD\Mes autres fichiers\VB.NET\Software\cryptasym\Crypt\Crypt\bin\Debug\BitCrypter.pdb
+C:\BACKUP HDD\Mes autres fichiers\VB.NET\Software\cryptasym\Crypt\Crypt\obj\Debug\Crypt.csprojResolveAssemblyReference.cache
+C:\BACKUP HDD\Mes autres fichiers\VB.NET\Software\cryptasym\Crypt\Crypt\obj\Debug\Crypt.about.resources
+C:\BACKUP HDD\Mes autres fichiers\VB.NET\Software\cryptasym\Crypt\Crypt\obj\Debug\Crypt.Form1.resources
+C:\BACKUP HDD\Mes autres fichiers\VB.NET\Software\cryptasym\Crypt\Crypt\obj\Debug\Crypt.Form2.resources
+C:\BACKUP HDD\Mes autres fichiers\VB.NET\Software\cryptasym\Crypt\Crypt\obj\Debug\Crypt.Form3.resources
+C:\BACKUP HDD\Mes autres fichiers\VB.NET\Software\cryptasym\Crypt\Crypt\obj\Debug\Crypt.Properties.Resources.resources
+C:\BACKUP HDD\Mes autres fichiers\VB.NET\Software\cryptasym\Crypt\Crypt\obj\Debug\Crypt.csproj.GenerateResource.Cache
+C:\BACKUP HDD\Mes autres fichiers\VB.NET\Software\cryptasym\Crypt\Crypt\obj\Debug\BitCrypter.exe
+C:\BACKUP HDD\Mes autres fichiers\VB.NET\Software\cryptasym\Crypt\Crypt\obj\Debug\BitCrypter.pdb
+C:\BACKUP HDD\Mes autres fichiers\C#\cryptasym\Crypt\Crypt\obj\Debug\Crypt.csprojResolveAssemblyReference.cache
+C:\BACKUP HDD\Mes autres fichiers\C#\cryptasym\Crypt\Crypt\obj\Debug\Crypt.about.resources
+C:\BACKUP HDD\Mes autres fichiers\C#\cryptasym\Crypt\Crypt\obj\Debug\Crypt.Form1.resources
+C:\BACKUP HDD\Mes autres fichiers\C#\cryptasym\Crypt\Crypt\obj\Debug\Crypt.Form2.resources
+C:\BACKUP HDD\Mes autres fichiers\C#\cryptasym\Crypt\Crypt\obj\Debug\Crypt.Form3.resources
+C:\BACKUP HDD\Mes autres fichiers\C#\cryptasym\Crypt\Crypt\obj\Debug\Crypt.Properties.Resources.resources
+C:\BACKUP HDD\Mes autres fichiers\C#\cryptasym\Crypt\Crypt\obj\Debug\Crypt.csproj.GenerateResource.Cache
+C:\BACKUP HDD\Mes autres fichiers\C#\cryptasym\Crypt\Crypt\obj\Debug\BitCrypter.exe
+C:\BACKUP HDD\Mes autres fichiers\C#\cryptasym\Crypt\Crypt\obj\Debug\BitCrypter.pdb
+C:\BACKUP HDD\Mes autres fichiers\C#\cryptasym\Crypt\Crypt\bin\Debug\BitCrypter.exe
+C:\BACKUP HDD\Mes autres fichiers\C#\cryptasym\Crypt\Crypt\bin\Debug\BitCrypter.pdb
+C:\BACKUP HDD\Mes autres fichiers\C#\cryptasym\Crypt\Crypt\bin\Debug\BitCrypter.exe.config
+B:\BACKUP HDD\Mes autres fichiers\C#\cryptasym\Crypt\Crypt\obj\Debug\Crypt.csprojResolveAssemblyReference.cache
+B:\BACKUP HDD\Mes autres fichiers\C#\cryptasym\Crypt\Crypt\obj\Debug\Crypt.about.resources
+B:\BACKUP HDD\Mes autres fichiers\C#\cryptasym\Crypt\Crypt\obj\Debug\Crypt.Form1.resources
+B:\BACKUP HDD\Mes autres fichiers\C#\cryptasym\Crypt\Crypt\obj\Debug\Crypt.Form2.resources
+B:\BACKUP HDD\Mes autres fichiers\C#\cryptasym\Crypt\Crypt\obj\Debug\Crypt.Form3.resources
+B:\BACKUP HDD\Mes autres fichiers\C#\cryptasym\Crypt\Crypt\obj\Debug\Crypt.Properties.Resources.resources
+B:\BACKUP HDD\Mes autres fichiers\C#\cryptasym\Crypt\Crypt\obj\Debug\Crypt.csproj.GenerateResource.Cache
+B:\BACKUP HDD\Mes autres fichiers\C#\cryptasym\Crypt\Crypt\obj\Debug\Crypt.csproj.CoreCompileInputs.cache
+B:\BACKUP HDD\Mes autres fichiers\C#\cryptasym\Crypt\Crypt\obj\Debug\BitCrypter.exe
+B:\BACKUP HDD\Mes autres fichiers\C#\cryptasym\Crypt\Crypt\obj\Debug\BitCrypter.pdb
+B:\BACKUP HDD\Mes autres fichiers\C#\cryptasym\Crypt\Crypt\bin\Debug\BitCrypter.exe.config
+B:\BACKUP HDD\Mes autres fichiers\C#\cryptasym\Crypt\Crypt\bin\Debug\BitCrypter.exe
+B:\BACKUP HDD\Mes autres fichiers\C#\cryptasym\Crypt\Crypt\bin\Debug\BitCrypter.pdb
+B:\BACKUP HDD\Mes autres fichiers\C#\cryptasym\Crypt\Crypt\obj\Debug\Crypt.progressDialog.resources
+B:\BACKUP HDD\Mes autres fichiers\C#\cryptasym\BACKUP\Crypt\Crypt\bin\Debug\BitCrypter.exe.config
+B:\BACKUP HDD\Mes autres fichiers\C#\cryptasym\BACKUP\Crypt\Crypt\bin\Debug\BitCrypter.exe
+B:\BACKUP HDD\Mes autres fichiers\C#\cryptasym\BACKUP\Crypt\Crypt\bin\Debug\BitCrypter.pdb
+B:\BACKUP HDD\Mes autres fichiers\C#\cryptasym\BACKUP\Crypt\Crypt\obj\Debug\Crypt.csprojAssemblyReference.cache
+B:\BACKUP HDD\Mes autres fichiers\C#\cryptasym\BACKUP\Crypt\Crypt\obj\Debug\Crypt.about.resources
+B:\BACKUP HDD\Mes autres fichiers\C#\cryptasym\BACKUP\Crypt\Crypt\obj\Debug\Crypt.Form1.resources
+B:\BACKUP HDD\Mes autres fichiers\C#\cryptasym\BACKUP\Crypt\Crypt\obj\Debug\Crypt.Form2.resources
+B:\BACKUP HDD\Mes autres fichiers\C#\cryptasym\BACKUP\Crypt\Crypt\obj\Debug\Crypt.Form3.resources
+B:\BACKUP HDD\Mes autres fichiers\C#\cryptasym\BACKUP\Crypt\Crypt\obj\Debug\Crypt.Properties.Resources.resources
+B:\BACKUP HDD\Mes autres fichiers\C#\cryptasym\BACKUP\Crypt\Crypt\obj\Debug\Crypt.csproj.GenerateResource.cache
+B:\BACKUP HDD\Mes autres fichiers\C#\cryptasym\BACKUP\Crypt\Crypt\obj\Debug\Crypt.csproj.CoreCompileInputs.cache
+B:\BACKUP HDD\Mes autres fichiers\C#\cryptasym\BACKUP\Crypt\Crypt\obj\Debug\Crypt.csproj.CopyComplete
+B:\BACKUP HDD\Mes autres fichiers\C#\cryptasym\BACKUP\Crypt\Crypt\obj\Debug\BitCrypter.exe
+B:\BACKUP HDD\Mes autres fichiers\C#\cryptasym\BACKUP\Crypt\Crypt\obj\Debug\BitCrypter.pdb
+C:\Users\SkynetDevCode\Desktop\Crypt\Crypt\bin\Debug\BitCrypter.exe.config
+C:\Users\SkynetDevCode\Desktop\Crypt\Crypt\bin\Debug\BitCrypter.exe
+C:\Users\SkynetDevCode\Desktop\Crypt\Crypt\bin\Debug\BitCrypter.pdb
+C:\Users\SkynetDevCode\Desktop\Crypt\Crypt\obj\Debug\Crypt.csprojAssemblyReference.cache
+C:\Users\SkynetDevCode\Desktop\Crypt\Crypt\obj\Debug\Crypt.about.resources
+C:\Users\SkynetDevCode\Desktop\Crypt\Crypt\obj\Debug\Crypt.mainForm.resources
+C:\Users\SkynetDevCode\Desktop\Crypt\Crypt\obj\Debug\Crypt.encryptForm.resources
+C:\Users\SkynetDevCode\Desktop\Crypt\Crypt\obj\Debug\Crypt.decryptForm.resources
+C:\Users\SkynetDevCode\Desktop\Crypt\Crypt\obj\Debug\Crypt.Properties.Resources.resources
+C:\Users\SkynetDevCode\Desktop\Crypt\Crypt\obj\Debug\Crypt.csproj.GenerateResource.cache
+C:\Users\SkynetDevCode\Desktop\Crypt\Crypt\obj\Debug\Crypt.csproj.CoreCompileInputs.cache
+C:\Users\SkynetDevCode\Desktop\Crypt\Crypt\obj\Debug\Crypt.csproj.CopyComplete
+C:\Users\SkynetDevCode\Desktop\Crypt\Crypt\obj\Debug\BitCrypter.exe
+C:\Users\SkynetDevCode\Desktop\Crypt\Crypt\obj\Debug\BitCrypter.pdb
